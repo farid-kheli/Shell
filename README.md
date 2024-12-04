@@ -15,6 +15,7 @@ This repository is designed to help you learn and practice fundamental shell scr
 | `04-read.sh`        | Handling user input and output.            |
 | `05-TestScript.sh`  | cheking fo directory if existe or not.     |
 | `06-read.sh`        | Handling user input and output.             |
+| `06-PingSweeper.sh`        | test ping conection of network after entring the subnet.             |
 
 ---
 
