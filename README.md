@@ -16,6 +16,7 @@ This repository is designed to help you learn and practice fundamental shell scr
 | `05-TestScript.sh`  | cheking fo directory if existe or not.     |
 | `06-read.sh`        | Handling user input and output.             |
 | `07-PingSweeper.sh`        | test ping conection of network after entring the subnet.             |
+| `08-PasswordGenerator.sh`        | Ginerate safe Passwords.             |
 
 ---
 
